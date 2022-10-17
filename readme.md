@@ -1,4 +1,12 @@
-**CriptOfertas**
+**Cryptofertas**
+
+Proyecto final del Ethereum Developer Program de Platzi, programa de capacitación de desarrollo en Ethereum avalado por la Ethereum Foundation. 
+
+Se trata de una plataforma de cupones de descuento NFT, que acerca a productores, consumidores y embajadores de la plataforma para transaccionar cupones de descuento y compra anticipada mediante el token nativo de la plataforma.
+
+Proyecto realizado en grupo mediante metodología SCRUM.
+
+**Cryptofertas**
 
 Criptoferta is a decentralized platform that connects users in the crypto space to trade NFT discount coupons for products and services to mitigate inflation.
 
