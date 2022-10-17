@@ -6,9 +6,9 @@ Se trata de una plataforma de cupones de descuento NFT, que acerca a productores
 
 Proyecto realizado en grupo mediante metodología SCRUM.
 
-**Cryptofertas**
+---
 
-Criptoferta is a decentralized platform that connects users in the crypto space to trade NFT discount coupons for products and services to mitigate inflation.
+Criptofertas is a decentralized platform that connects users in the crypto space to trade NFT discount coupons for products and services to mitigate inflation.
 
 Blockchain technology will allow for a self-managed business model where all users will benefit from our native token.
 
