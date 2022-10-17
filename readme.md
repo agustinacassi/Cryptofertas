@@ -4,7 +4,12 @@ Proyecto final del Ethereum Developer Program de Platzi, programa de capacitaci�
 
 Se trata de una plataforma de cupones de descuento NFT, que acerca a productores, consumidores y embajadores de la plataforma para transaccionar cupones de descuento y compra anticipada mediante el token nativo de la plataforma.
 
+Participé como developer, como así también realizando una investigación de mercado y pitcheando la plataforma en el Talent Fest del Programa, video disponible aquí
+
+https://www.youtube.com/watch?v=ID7s_F-n5mw
+
 Proyecto realizado en grupo mediante metodología SCRUM.
+
 
 ---
 
